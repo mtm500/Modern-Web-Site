@@ -1,0 +1,6 @@
+{
+  "name": "Modern Web",
+  "description": "Modern, professional, zero-maintenance websites for small business owners with direct visual editing and 100% code ownership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
